@@ -7,4 +7,6 @@ It is quite a straightforward project but the CSS file has gotten considerably b
 
 The styling is inspired from one of the FreeCodeCamp Projects.
 
+You can access the live page at https://edy-gavrila.github.io/Product-Landing-Page/
+
 Copyright 2021 Eduard Gavrila
